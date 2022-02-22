@@ -4,7 +4,7 @@
   "description": "New 3d model viewer",
   "main": "index.js",
   "scripts": {
-    "dev": "webpack serve --config ./src/client/webpack.dev.js",
+    "dev": "webpack serve --config ./src/webpack.dev.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
